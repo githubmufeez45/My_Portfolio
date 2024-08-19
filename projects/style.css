@@ -351,35 +351,3 @@ header .navbar ul li a:hover{
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
-
-/* Add this in your CSS file */
-@media only screen and (max-width: 600px) {
-  .container {
-      padding: 10px;
-  }
-  .hero-section h1 {
-      font-size: 24px;
-  }
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-h1 {
-  font-size: 2.5em;
-}
-
-@media only screen and (max-width: 600px) {
-  h1 {
-      font-size: 1.5em;
-  }
-}
-/* In your CSS file */
-.navbar ul {
-  display: none; /* Hide by default on mobile */
-}
-
-.navbar.nav-toggle ul {
-  display: flex; /* Show when toggled */
-}

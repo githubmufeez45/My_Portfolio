@@ -134,13 +134,3 @@ document.onkeydown = function (e) {
         return false;
     }
 }
-
-// In your main.js file
-document.getElementById('menu').addEventListener('click', function() {
-    document.querySelector('.navbar').classList.toggle('nav-toggle');
-});
-
-// In your main.js file
-document.getElementById('menu').addEventListener('click', function() {
-    document.querySelector('.navbar').classList.toggle('nav-toggle');
-});
