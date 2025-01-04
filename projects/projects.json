@@ -8,20 +8,20 @@
     }
   },
   {
-    "name": "IPC to BNS Legal Mapping Tool",
+    "name": "IPC to BNS Convertor & Mapping Tool",
     "desc": "Legal Section Mapping Tool for IPC to BNS, Built Using NLP, Python, and Machine Learning.",
     "image": "bns",
     "links": {
-      "view": "https://github.com/Abdul-Wasih03/"
+      "view": "https://github.com/Abdul-Wasih03/LegalLookup"
     
     }
   },
   {
-    "name": "Brain Tumor Detection",
-    "desc": "Medical Imaging Analysis for Tumor Identification, Built Using Deep Learning, Python, and TensorFlow.",
-    "image": "brain",
+    "name": "E-commerce Recommendation System",
+    "desc": "Created an e-commerce recommendation engine that integrated customer review sentiment analysis to enhanceproduct suggestions and sales forecasting.",
+    "image": "ecom",
     "links": {
-      "view": "https://github.com/Abdul-Wasih03/"
+      "view": "https://github.com/Abdul-Wasih03/E-commerce-Recommendation-System-with-Sentiment-Analysis"
        }
   },
   {
