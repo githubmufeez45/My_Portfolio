@@ -20,11 +20,11 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Syed Abdul Wasih H | Portfolio";
+            document.title = "SHAIK MUFEEZUR RAHAMAN | Portfolio";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
-            document.title = "Syed Abdul Wasih H | Portfolio";
+            document.title = "SHAIK MUFEEZUR RAHAMAN | Portfolio";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
     });
